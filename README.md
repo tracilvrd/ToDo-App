@@ -100,7 +100,7 @@ Contributions to this project are welcome. If you notice a bug or have a suggest
 
 ## Credits
 
-The project was developed by me [Uche-Okoro Jefferson] as part of a project in the [ALX Software Engineering Programme].
+The project was developed by me [Ese Daniel] as part of a project in the [ALX Software Engineering Programme].
  
 # TodoApp
 
