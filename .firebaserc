@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "todo-app-7bcf0": {
+      "hosting": {
+        "todoApp": [
+          "todo-app-7bcf0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "todo-app-7bcf0"
+  }
+}
